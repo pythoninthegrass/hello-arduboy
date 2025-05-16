@@ -1,5 +1,5 @@
 # ETC
-
+*.hex
 
 # General
 .DS_Store
